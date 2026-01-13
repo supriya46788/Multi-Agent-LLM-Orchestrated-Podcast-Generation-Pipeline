@@ -1,4 +1,4 @@
-# Agentic AI Podcast Generator
+# Agentic AI Podcast Generator.
 
 An **end-to-end Agentic AI application** that transforms a single blog or article URL into a **complete podcast episode with downloadable AI-generated voice audio**.
 
@@ -55,6 +55,7 @@ python app.py
 4. Paste a blog/article URL
 5. Click **Generate Podcast**
 6. Listen to or download the generated audio
+
 
 
 
