@@ -25,7 +25,7 @@ The system accepts a URL, autonomously extracts its content, generates a podcast
 
 ---
 
-## 🔐 Environment Variables
+## 🔐 Environment Variables:
 
 Create a `.env` file in the project root and add the following keys:
 
@@ -55,6 +55,7 @@ python app.py
 4. Paste a blog/article URL
 5. Click **Generate Podcast**
 6. Listen to or download the generated audio
+
 
 
 
